@@ -3,8 +3,8 @@
 
 #include <glm/glm.hpp>
 
-const float BALL_SPEED = 8.0f;
-const float WALL_SPEED = 6.0f;
+const float BALL_SPEED = 10.0f;
+const float WALL_SPEED = 8.0f;
 
 struct Transform
 {
